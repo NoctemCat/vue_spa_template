@@ -10,9 +10,7 @@ const { t } = useI18n({ useScope: 'local' });
   </main>
 </template>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
 
 <i18n lang="json5" locale="en">
 {
